@@ -152,4 +152,4 @@ maintained by
 
 
 # Note 
-please check out branch "kinetic_fixes" if using Kinetic
+Please check out branch "kinetic_fixes" if using Kinetic
