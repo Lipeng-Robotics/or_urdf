@@ -150,3 +150,6 @@ maintained by
 [Michael Koval](https://github.com/mkoval) and
 [Pras Velagapudi](https://github.com/psigen).
 
+
+# Note 
+please check out branch "kinetic_fixes" if using Kinetic
